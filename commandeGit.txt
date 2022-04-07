@@ -20,5 +20,5 @@ push    	:::$ git push --RemoteName-- --Branch name--
 ***ssh and GPG keys***
 :::$ ssh-keygen -t rsa -b 4096 -C "yor email"
 :::$ cat ~/.ssh/id_rsa.pub
-go to setting -> access -> ssh and GPG key -> new SSH Key  
+go to setting -> deploy keys -> ssh and GPG key -> new SSH Key  
 

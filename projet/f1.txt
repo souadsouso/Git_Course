@@ -1,6 +1,3 @@
 hi
-<<<<<<< HEAD
 how are you
-=======
-I am fine
->>>>>>> 1f962d012e686b6daf8e17ce0d7e265e87beb5ee
+
