@@ -1,0 +1,20 @@
+***Words You Will Hear***
+
+Repository
+
+Branch
+
+Local Repo
+
+Remote Repo
+
+Commit (checkpoint in your local repo)
+
+Clone [From Local Or Remote]
+
+Push [Upload Local Changes to Remote]
+
+Pull [you pull changes from remote repo to your local]
+
+Pull Request [Tell Other about your changes to pull it from local to remote]
+
