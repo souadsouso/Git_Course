@@ -31,4 +31,8 @@ delete branch 	:::$ git branch -d -- Branch Name--
 
 delete force	:::$ git branch -D --Branch Name--
 
+<<<<<<< HEAD
 rename branch 	:::$ git branch -m --new Name--
+=======
+rename branch 	:::$ git branch -m --new Name--
+>>>>>>> 4abacc2b44b058711a655431e59962254faaa07d
