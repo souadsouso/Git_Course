@@ -1,0 +1,23 @@
+***Commandes Git***
+
+Clone   	:::$ git clone --https ou ssh ou ... --
+        	:::$ cd --repo name--
+
+Status 	 	:::$ git status
+
+Add     	:::$ git add --path des file -- or *
+
+Reset   	:::$ git reset head --path des file-- or *
+
+Commit  	:::$ git commit -m "any description"
+
+branch name  	:::$ git branch
+
+remote name	:::$ git remote -v
+
+push    	:::$ git push --RemoteName-- --Branch name--
+
+***ssh and GPG keys***
+:::$ ssh-keygen -t rsa -b 4096 -C "yor email"
+:::$ cat ~/.ssh/id_rsa.pub
+go to setting -> access -> ssh and GPG key -> new SSH Key  
