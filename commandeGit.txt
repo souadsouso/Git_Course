@@ -22,4 +22,3 @@ push    	:::$ git push --RemoteName-- --Branch name--
 :::$ cat ~/.ssh/id_rsa.pub
 go to setting -> access -> ssh and GPG key -> new SSH Key  
 
-new
