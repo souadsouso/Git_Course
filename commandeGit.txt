@@ -22,4 +22,7 @@ push    	:::$ git push --RemoteName-- --Branch name--
 :::$ cat ~/.ssh/id_rsa.pub
 go to setting -> deploy keys -> ssh and GPG key -> new SSH Key  
 
-***Pull Request***
+***Branching***
+create branch	:::$ git branch --New Branch Name--
+
+change to branch ::$ git checkout -- Branch Name--
