@@ -26,3 +26,9 @@ go to setting -> deploy keys -> ssh and GPG key -> new SSH Key
 create branch	:::$ git branch --New Branch Name--
 
 change to branch ::$ git checkout -- Branch Name--
+
+delete branch 	:::$ git branch -d -- Branch Name--
+
+delete force	:::$ git branch -D --Branch Name--
+
+rename branch 	:::$ git branch -m --new Name--
